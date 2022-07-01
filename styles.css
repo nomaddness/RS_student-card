@@ -1,0 +1,191 @@
+body {
+  max-width: 1440px;
+}
+
+.container {
+  max-width: 1263px;
+  margin: 200px;
+  display: block;
+}
+
+h1 {
+  font-size: 35px;
+  text-align: center;
+}
+
+.info {
+  margin-top: 40px;
+  display: flex;
+}
+
+h2 {
+  font-size: 20px;
+  text-align: center;
+}
+
+.info h2 {
+  font-size: 20px;
+  text-align: left;
+}
+.info img {
+  width: 250px;
+  height: 300px;
+}
+
+.info-text {
+  margin-left: 30px;
+}
+
+.info-text-card {
+  margin-bottom: 21px;
+}
+.info-text h2 {
+  margin: 0px;
+  font-weight: normal;
+  font-size: 18px;
+}
+.info-text p {
+  margin-top: 0px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.goals {
+  border: 1px solid black;
+  padding: 15px;
+}
+.goals h2 {
+  font-size: 25px;
+  margin-top: 0;
+  font-weight: normal;
+}
+.goals li {
+  margin-bottom: 5px;
+}
+.schedule {
+  border: 1px solid black;
+  padding: 15px;
+  margin-top: 30px;
+}
+
+.schedule h2 {
+  font-size: 25px;
+  margin-top: 0;
+  font-weight: normal;
+}
+
+.schedule-info {
+  text-align: center;
+}
+
+.schedule-info-day {
+  display: flex;
+
+  margin-bottom: 5px;
+}
+
+.day {
+  text-align: left;
+  margin-left: 350px;
+  width: 30%;
+}
+.time {
+  width: 70%;
+  text-align: left;
+}
+.expirience {
+  border: 1px solid black;
+  padding: 15px;
+  margin-top: 30px;
+}
+.expirience h2 {
+  font-size: 25px;
+  margin-top: 0;
+  margin-bottom: 25px;
+  font-weight: normal;
+}
+
+.expirience-info {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.expirience-info-head-line {
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 1px solid #000;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.expirience-info-line1 {
+  display: flex;
+
+  margin-bottom: 10px;
+}
+.expirience-info-line2 {
+  display: flex;
+
+  margin-bottom: 10px;
+}
+.expirience-info-line3 {
+  display: flex;
+
+  margin-bottom: 10px;
+}
+
+.lang1 {
+  margin-left: 128px;
+}
+.lang2 {
+  margin-left: 135px;
+}
+.lang3 {
+  margin-left: 90px;
+}
+
+.author1 {
+  margin-left: 215px;
+}
+.author2 {
+  margin-left: 225px;
+}
+.author3 {
+  margin-left: 191px;
+}
+
+.rate1 {
+  margin-left: 232px;
+}
+.rate2 {
+  margin-left: 232px;
+}
+.rate3 {
+  margin-left: 255px;
+}
+.contacts {
+  border: 1px solid black;
+  padding: 15px;
+  margin-top: 30px;
+}
+
+.contacts h2 {
+  font-size: 25px;
+  margin-top: 0;
+  font-weight: normal;
+}
+.contacts-info {
+  display: flex;
+  justify-content: space-around;
+}
+
+.contacts-info-card {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.contacts-info-card img {
+  margin-left: 5px;
+}
